@@ -1,0 +1,64 @@
+body{top:15px;}
+
+.principal{width:60%;
+		background-color:white;
+		margin: 0 auto;}
+		
+.inf{background-color:1C1C1C;
+	width:100%;
+	text-align: center;}
+
+.imagem{display: inline-block;
+		background-color: white;
+		width:30%;
+		border: 2px solid black;}
+		
+		
+form {width:30%;
+	background-color:white;
+	margin: 0 auto;
+	text-align: center;
+	color: CDAD00;
+	font-family: georgian;
+	border: 5px solid gray;}
+
+
+h1, h5 { text-align: center;
+	color: CDAD00 ;
+	font-family: georgian;}
+	
+h2 { text-align: left;
+	color:black;
+	font-size: 25px;
+	text-align: center;}
+	
+h1{ font-size: 40px;
+	background-color:white;}
+	
+
+a {font-family: verdana ;
+  font-size: 15px;
+  color: FFD700;}
+
+h4, h3 {font-family: verdana ;
+  font-size: 15px;
+  color: 363636;}
+	
+a:link, a:visited {
+background-color:03989E;
+color:white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline;}
+
+a:hover, a:active {background-color: 6D6C6C;}
+
+.menu {background-color: 03989E;
+list-style-type: none;
+text-align: center;
+padding: 0;
+margin: 0;}
+.menu li {display: inline-block;
+font-size: 15px;
+padding: 15px;}
